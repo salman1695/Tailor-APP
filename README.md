@@ -1,6 +1,3 @@
-Here's a complete README file for your **TailorPro** project:
-
----
 
 # **TailorPro**
 
@@ -9,6 +6,7 @@ Here's a complete README file for your **TailorPro** project:
 ---
 
 ## **Features**
+
 - **Splash Screen**: A welcoming screen displayed when the app launches.
 - **Authentication System**: Secure user login and registration using Firebase Authentication.
 - **Home Screen**: Displays the app's main navigation options.
@@ -19,6 +17,7 @@ Here's a complete README file for your **TailorPro** project:
 ---
 
 ## **Technologies Used**
+
 - **Android Studio**: Development Environment.
 - **Kotlin**: Programming language.
 - **Firebase Authentication**: For user authentication.
@@ -27,20 +26,25 @@ Here's a complete README file for your **TailorPro** project:
 ---
 
 ## **Installation Guide**
+
 To set up and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/salman1695/Tailor-APP/tree/main
+   git clone https://github.com/salman1695/Tailor-APP.git
    ```
 2. Open the project in **Android Studio**.
 3. Ensure you have the required dependencies and SDK versions installed.
 4. Add your Firebase configuration file (**google-services.json**) to the `app` directory.
 5. Sync the project with Gradle.
 6. Run the app on an emulator or a physical device.
+
+For more details, visit the [TailorPro Repository](https://github.com/salman1695/Tailor-APP/tree/main).
+
 ---
 
 ## **Usage**
+
 1. Launch the app.
 2. Authenticate with your email and password or register a new account.
 3. Use the home screen to navigate to different features:
@@ -51,7 +55,9 @@ git clone https://github.com/salman1695/Tailor-APP/tree/main
 ---
 
 ## **Contribution Guidelines**
+
 We welcome contributions to improve **TailorPro**! Here's how you can contribute:
+
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix.
 3. Make your changes and test them thoroughly.
@@ -60,10 +66,12 @@ We welcome contributions to improve **TailorPro**! Here's how you can contribute
 ---
 
 ## **Author**
-- **Name**: Salman
-- **GitHub**: [https://github.com/salman1695]
+
+- **Name**: Salman  
+- **GitHub**: [https://github.com/salman1695](https://github.com/salman1695)
 
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
