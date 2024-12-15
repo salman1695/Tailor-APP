@@ -31,7 +31,7 @@ To set up and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TailorPro.git
+git clone https://github.com/salman1695/Tailor-APP/tree/main
    ```
 2. Open the project in **Android Studio**.
 3. Ensure you have the required dependencies and SDK versions installed.
@@ -61,7 +61,7 @@ We welcome contributions to improve **TailorPro**! Here's how you can contribute
 
 ## **Author**
 - **Name**: Salman
-- **GitHub**: [Your GitHub Profile Link]
+- **GitHub**: [https://github.com/salman1695]
 
 ---
 
